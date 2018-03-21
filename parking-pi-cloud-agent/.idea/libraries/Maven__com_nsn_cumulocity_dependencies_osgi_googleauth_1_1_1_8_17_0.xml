@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.nsn.cumulocity.dependencies.osgi:googleauth:1.1.1-8.17.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/nsn/cumulocity/dependencies/osgi/googleauth/1.1.1-8.17.0/googleauth-1.1.1-8.17.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/nsn/cumulocity/dependencies/osgi/googleauth/1.1.1-8.17.0/googleauth-1.1.1-8.17.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/nsn/cumulocity/dependencies/osgi/googleauth/1.1.1-8.17.0/googleauth-1.1.1-8.17.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

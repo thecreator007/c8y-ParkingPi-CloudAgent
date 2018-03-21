@@ -1,0 +1,4 @@
+com\softwareag\parkingpi\agent\compareTime.class
+com\softwareag\parkingpi\agent\MeasurementArray.class
+com\softwareag\parkingpi\agent\ParkingPiCloudAgent.class
+com\softwareag\parkingpi\agent\FoundDevice.class
